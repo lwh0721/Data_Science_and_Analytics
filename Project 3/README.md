@@ -1,1 +1,1 @@
-# STA2503_Pricing_Theory
+Web Scraping to collect data, Data Visualization, Hierarchical & K-means clustering.
