@@ -1,4 +1,4 @@
-Introduction to Data Science and Analytics.
+Introduction to Data Science and Analytics (2022 Fall).
 
 **Project 1**: Basic exploratory data analysis and summarize characteristics by plots, t-test, ANOVA
 
