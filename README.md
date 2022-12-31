@@ -15,7 +15,7 @@ Lasso Regularization to feature selection
 (3) Model implementation
 ordinal logistic regression with CV
 
-(4)Tuning with confusion table
+(4) Tuning with confusion table
 
 
 **Project 3**: Web Scraping to collect data, Data Visualization, Hierarchical & K-means clustering.
