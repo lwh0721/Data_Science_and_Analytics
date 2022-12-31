@@ -1,1 +1,1 @@
-# STA2503_Pricing_Theory
+Basic exploratory data analysis and summarize characteristics by plots, t-test, ANOVA
